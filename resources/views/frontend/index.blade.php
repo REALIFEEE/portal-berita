@@ -21,6 +21,7 @@
                         </div>
                     </a>
                 </div>
+                {{--  --}}
 
                 @foreach ($slider as $row)
                     <div class="swiper-slide">
